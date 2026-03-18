@@ -23,4 +23,4 @@ Following is a simple example of the beginning parts of the *Super Mario Brother
 3. File extension is `.tune`
 4. Although not necessarily part of the tune, consider adding a silence at the end so that looped playback sounds good :-)
 
-Note: this is compatible with the [GRUB_INIT_TUNE](https://wiki.archlinux.org/title/GRUB/Tips_and_tricks#Play_a_tune) when using a `TEMPO` of 60,000 (bpm).
+Note: this is compatible with the [GRUB_INIT_TUNE](https://www.gnu.org/software/grub/manual/grub/grub.html#play) when using a `TEMPO` of 60,000 (bpm).
